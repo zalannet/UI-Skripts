@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="webFirstPizza" external.linked.project.path="$MODULE_DIR$/../../webFirstPizza" external.root.project.path="$MODULE_DIR$/../../webFirstPizza" external.system.id="GRADLE" external.system.module.group="pizza" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../webFirstPizza" rootProjectPath="$MODULE_DIR$/../../webFirstPizza" />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../webFirstPizza">
+      <excludeFolder url="file://$MODULE_DIR$/../../webFirstPizza/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../webFirstPizza/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../webFirstPizza/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

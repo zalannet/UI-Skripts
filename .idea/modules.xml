@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pizza.webFirstPizza.iml" filepath="$PROJECT_DIR$/.idea/modules/pizza.webFirstPizza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pizza.webFirstPizza.main.iml" filepath="$PROJECT_DIR$/.idea/modules/pizza.webFirstPizza.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pizza.webFirstPizza.test.iml" filepath="$PROJECT_DIR$/.idea/modules/pizza.webFirstPizza.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webFirstPizza.iml" filepath="$PROJECT_DIR$/.idea/modules/webFirstPizza.iml" />
+    </modules>
+  </component>
+</project>
