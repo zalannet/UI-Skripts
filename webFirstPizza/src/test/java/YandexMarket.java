@@ -24,9 +24,10 @@ public class YandexMarket {
         wd.findElement(new By.ByCssSelector("#glpriceto")).sendKeys("32000");
         ArrayList<WebElement> links = new ArrayList<>();
         //спросить, как добавить ВСЕ модели для сравнения
-        links.add(wd.findElement(new By.ByCssSelector("*.image_name_compare")));
+       links.add(wd.findElement(new By.ByCssSelector(".image_name_compare")));
 
 
+       // links.add( wd.findElement(new By.ByCssSelector("*.image_name_compare")));
         for (WebElement link : links) {
             link.click();
         }
